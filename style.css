@@ -180,6 +180,7 @@ body {
     height: auto;
     display: block; /* Makes image block level for better control */
     margin: 0 auto 20px; 
+    margin-top: 20px;
     background-color: #557c93d9;
     border-radius: 25px;
     padding: 10px;
